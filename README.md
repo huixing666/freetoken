@@ -1,3 +1,5 @@
+### 愿天下人人有token用
+
 # [Agentrouter](https://agentrouter.org/register?aff=krZQ)
 [点我注册](https://agentrouter.org/register?aff=krZQ)
 
