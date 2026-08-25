@@ -50,14 +50,3 @@
 - 余额还算比较慢
 
 
-# [Vyceai](https://vyceai.com/signup?ref=VYCE_KFQCXQ)
-[点我注册](https://vyceai.com/signup?ref=VYCE_KFQCXQ)
-
-模型：`GPT` `claude` `grok` 都有
-特点：
-- 国外站点
-- 速度未知
-- 每登录送大概七八刀
-- 余额消耗未知
-- 
-
