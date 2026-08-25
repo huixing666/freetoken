@@ -1,4 +1,5 @@
 ### 愿天下人人有token用
+### 此外还要注意： 免费的中转（其实也包括收费的），可能有代码注入的风险。注意review代码
 
 # [Agentrouter](https://agentrouter.org/register?aff=krZQ)
 [点我注册](https://agentrouter.org/register?aff=krZQ)
