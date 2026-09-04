@@ -1,5 +1,5 @@
 ### 愿天下人人有token用
-### 此外还要注意： 免费的中转（其实也包括收费的），可能有代码注入的风险。注意review代码
+### 此外还要注意： 免费的中转（其实也包括收费的），可能有代码注入的风险还有恶意下载之类的风险。注意review代码
 
 # [Agentrouter](https://agentrouter.org/register?aff=krZQ)
 [点我注册](https://agentrouter.org/register?aff=krZQ)
@@ -50,4 +50,11 @@
 - 每登签到送20刀
 - 余额还算比较慢
 
+# [KK](https://kktoken.cc/sign-up?aff=e9Ak)
+[点我注册](https://kktoken.cc/sign-up?aff=e9Ak)
+模型：`claude`
 
+特点：
+- 注册送100刀
+- 每天签到20刀
+- 稍显耐用
