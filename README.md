@@ -6,13 +6,22 @@
 
 注意：需要有ld账号或者githu1b满1年的才能注册
 
-模型：`gpt5.6sol`  `opus5`
+模型：进去看吧 现在都不确定
 
 特点：
 - 稳定
 - 速度快
 - 每日签到送25$（需要注销后重新登录）
 - 余额消耗很快
+
+# [vyceai](https://vyceai.com/signup?ref=VYCE_KFQCXQ)
+[点我注册](https://vyceai.com/signup?ref=VYCE_KFQCXQ)
+
+模型：免费可以用国模，收费可以用gpt啥的
+
+签到送10刀
+
+#================================下面都暂时不行了============================================
 
 # [Tabitoken](https://tabitoken.com/sign-up?aff=3WIj)
 [点我注册](https://tabitoken.com/sign-up?aff=3WIj)
