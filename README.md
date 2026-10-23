@@ -20,7 +20,3 @@ gpt和claude顶级模型都有
 - 每日签到送25$（需要注销后重新登录）
 - 余额消耗很快
 
-# (docode)[https://docode.cc/register?aff=ilmL]
-注册免费300刀
-记得填邀请码 `ilmL`
-充值也很便宜10块钱500刀
